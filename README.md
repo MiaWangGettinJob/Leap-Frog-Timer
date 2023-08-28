@@ -34,6 +34,9 @@ feedback and suggestions from them.
 
 
 Here are pictures:
+
+
+
 <img width="408" alt="Picture1" src="https://github.com/MiaWangGettinJob/Leap-Frog-Timer/assets/113963408/831d1fcc-ddbb-47af-9a94-c2f358515944">
 <img width="408" alt="Picture2" src="https://github.com/MiaWangGettinJob/Leap-Frog-Timer/assets/113963408/547ee4ef-d510-4307-ab4c-a09799eec68f">
 <img width="408" alt="Picture3" src="https://github.com/MiaWangGettinJob/Leap-Frog-Timer/assets/113963408/8b5d4ebf-ef95-49f4-a120-94b0c940abc2">
